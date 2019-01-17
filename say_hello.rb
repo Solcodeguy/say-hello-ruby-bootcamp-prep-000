@@ -1,4 +1,4 @@
-def say_hello(name="Shawn Meighn")
+def say_hello(name="Ruby Programmer")
   puts "Hello " + name + "!"
 end
-say_hello("Shawn Meighn")
+say_hello("Kent Beck")
